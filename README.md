@@ -1,5 +1,4 @@
-### Hi there, the name's Sam 👋
-
+### Hi there, the name's Sam. I'm an Ex-Montessori kindergarten teacher, now passionate software developer 👋
 <!--
 **Samyewel/Samyewel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
