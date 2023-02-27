@@ -1,4 +1,5 @@
 ### Hi there, the name's Sam. I'm an Ex-Montessori kindergarten teacher, now passionate software developer 👋
+# I'm currently studying in Helsinki, preparing myself for my first leap into the world of professional programming!
 <!--
 **Samyewel/Samyewel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
