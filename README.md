@@ -1,5 +1,5 @@
 ### Hi there, the name's Sam. I'm an Ex-Montessori kindergarten teacher, now passionate software developer 👋
-### I'm currently studying in Helsinki, preparing myself for my first leap into the world of professional programming! At Hive, our projects have mostly been in C. Whilst somewhat narrow in language, the skills learned from our projects can be carried throughout my development journey, and I'm so excited to explore new challenges along the way.
+### I'm currently open to entry-level positions in development!
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samyewel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 **Samyewel/Samyewel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
