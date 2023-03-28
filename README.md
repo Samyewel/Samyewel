@@ -1,6 +1,7 @@
 ### Hi there, the name's Sam. I'm an Ex-Montessori kindergarten teacher, now passionate software developer 👋
 ### I'm currently open to entry-level positions in development!
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samyewel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg"/>
 <!--
 **Samyewel/Samyewel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
