@@ -1,5 +1,5 @@
-### Hi there, the name's Sam 👋 I'm an Ex-Montessori kindergarten teacher, now passionate software developer.
-### I've just finished my core studies at Hive, and am now currently open to entry-level positions in development!
+### Hi there, the name's Sam 👋 I'm an Ex-Montessori kindergarten teacher, now passionate software developer based in Helsinki, Finland.
+### I'm currently looking for junior backend development positions!
 <b>Languages and Tools:</b><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samyewel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br><br>
